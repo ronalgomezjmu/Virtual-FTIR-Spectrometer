@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Virtual-FTIR-Spectrometer/static/css/main.aeaa4816.css",
-    "main.js": "/Virtual-FTIR-Spectrometer/static/js/main.ab31d209.js",
+    "main.css": "/Virtual-FTIR-Spectrometer/static/css/main.d6c71e27.css",
+    "main.js": "/Virtual-FTIR-Spectrometer/static/js/main.72722a75.js",
     "static/js/787.3a119a70.chunk.js": "/Virtual-FTIR-Spectrometer/static/js/787.3a119a70.chunk.js",
     "static/media/Montserrat-VariableFont_wght.ttf": "/Virtual-FTIR-Spectrometer/static/media/Montserrat-VariableFont_wght.3068cdb43142f5625baf.ttf",
     "static/media/Roboto-Regular.ttf": "/Virtual-FTIR-Spectrometer/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/FTIR.svg": "/Virtual-FTIR-Spectrometer/static/media/FTIR.95dda897b71fc95b8f37c067e82eb900.svg",
     "static/media/RastonLab-Logo-Full-Rainbow-Draft.svg": "/Virtual-FTIR-Spectrometer/static/media/RastonLab-Logo-Full-Rainbow-Draft.01d2c9693b1b78f04c61a6791c06f344.svg",
-    "static/media/ElementOne.svg": "/Virtual-FTIR-Spectrometer/static/media/ElementOne.fc35bcb79fd633dc481580e563b4f6cd.svg",
-    "static/media/logo.svg": "/Virtual-FTIR-Spectrometer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/ElementOne.svg": "/Virtual-FTIR-Spectrometer/static/media/ElementOne.409e213d1e01ae251c3c92dbd755f405.svg",
     "static/media/ElementTwo.svg": "/Virtual-FTIR-Spectrometer/static/media/ElementTwo.2a8f8dedac19c7e56c1328c09816104e.svg",
     "index.html": "/Virtual-FTIR-Spectrometer/index.html",
-    "main.aeaa4816.css.map": "/Virtual-FTIR-Spectrometer/static/css/main.aeaa4816.css.map",
-    "main.ab31d209.js.map": "/Virtual-FTIR-Spectrometer/static/js/main.ab31d209.js.map",
+    "main.d6c71e27.css.map": "/Virtual-FTIR-Spectrometer/static/css/main.d6c71e27.css.map",
+    "main.72722a75.js.map": "/Virtual-FTIR-Spectrometer/static/js/main.72722a75.js.map",
     "787.3a119a70.chunk.js.map": "/Virtual-FTIR-Spectrometer/static/js/787.3a119a70.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aeaa4816.css",
-    "static/js/main.ab31d209.js"
+    "static/css/main.d6c71e27.css",
+    "static/js/main.72722a75.js"
   ]
 }
