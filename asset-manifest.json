@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Virtual-FTIR-Spectrometer/static/css/main.c6807e7a.css",
-    "main.js": "/Virtual-FTIR-Spectrometer/static/js/main.426a28a7.js",
+    "main.css": "/Virtual-FTIR-Spectrometer/static/css/main.9e8c76b8.css",
+    "main.js": "/Virtual-FTIR-Spectrometer/static/js/main.6ec69f92.js",
     "static/js/787.3a119a70.chunk.js": "/Virtual-FTIR-Spectrometer/static/js/787.3a119a70.chunk.js",
     "static/media/Montserrat-VariableFont_wght.ttf": "/Virtual-FTIR-Spectrometer/static/media/Montserrat-VariableFont_wght.3068cdb43142f5625baf.ttf",
     "static/media/Roboto-Regular.ttf": "/Virtual-FTIR-Spectrometer/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
@@ -25,15 +25,13 @@
     "static/media/MCT.svg": "/Virtual-FTIR-Spectrometer/static/media/MCT.653f899172ee09d1ca072ae235efab23.svg",
     "static/media/lnsb.svg": "/Virtual-FTIR-Spectrometer/static/media/lnsb.02cbb4fa92ba9c0b8e4c6e3c2c4ee697.svg",
     "static/media/RastonLab-Logo-Full-Rainbow-Draft.svg": "/Virtual-FTIR-Spectrometer/static/media/RastonLab-Logo-Full-Rainbow-Draft.01d2c9693b1b78f04c61a6791c06f344.svg",
-    "static/media/ElementOne.svg": "/Virtual-FTIR-Spectrometer/static/media/ElementOne.409e213d1e01ae251c3c92dbd755f405.svg",
-    "static/media/ElementTwo.svg": "/Virtual-FTIR-Spectrometer/static/media/ElementTwo.2a8f8dedac19c7e56c1328c09816104e.svg",
     "index.html": "/Virtual-FTIR-Spectrometer/index.html",
-    "main.c6807e7a.css.map": "/Virtual-FTIR-Spectrometer/static/css/main.c6807e7a.css.map",
-    "main.426a28a7.js.map": "/Virtual-FTIR-Spectrometer/static/js/main.426a28a7.js.map",
+    "main.9e8c76b8.css.map": "/Virtual-FTIR-Spectrometer/static/css/main.9e8c76b8.css.map",
+    "main.6ec69f92.js.map": "/Virtual-FTIR-Spectrometer/static/js/main.6ec69f92.js.map",
     "787.3a119a70.chunk.js.map": "/Virtual-FTIR-Spectrometer/static/js/787.3a119a70.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6807e7a.css",
-    "static/js/main.426a28a7.js"
+    "static/css/main.9e8c76b8.css",
+    "static/js/main.6ec69f92.js"
   ]
 }
